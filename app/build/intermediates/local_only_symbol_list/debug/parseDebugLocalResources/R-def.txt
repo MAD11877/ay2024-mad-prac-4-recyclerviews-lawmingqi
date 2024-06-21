@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bigImage
+id btnFollow
+id btnMessage
+id description
+id imageView
+id main
+id name
+id profilePic
+id recyclerView
+id textView
+id tvDescription
+id tvName
+layout activity_list
+layout activity_main
+layout custom_activity_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Practical4
+style Theme.Practical4
+xml backup_rules
+xml data_extraction_rules
